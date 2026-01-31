@@ -1,27 +1,5 @@
 ############################################################
-## GOLD-STANDARD META-ANALYSIS SCRIPT (SBM ADAPTATION)
-## lnRR (ROM) effect sizes + multilevel rma.mv + CR2 robust SEs
-##
-## REQUESTED PANELS (outcome-specific):
-## Panel 1 (Yield)
-##   Fig 1A: Climate × Fertilizer
-##   Fig 1B: EC/pH vs. Yield
-##   Fig 1C: Cropping & Irrigation
-##
-## Panel 2 (SOC)
-##   Fig 2A: Climate × Fertilizer
-##   Fig 2B: EC/pH vs. SOC
-##   Fig 2C: Cropping System
-##
-## Panel 3 (Enzyme)
-##   Fig 3A: Climate × Fertilizer
-##   Fig 3B: pH vs. Enzyme
-##   Fig 3C: Fertilizer category
-##
-## IMPORTANT:
-## - group == outcome_type (Yield / SOC / Enzyme)
-## - composites are NULL-safe (won't crash if a subplot can't be made)
-## - orchaRd orchard model fit WITH intercept (recommended)
+## GOLD-STANDARD META-ANALYSIS SCRIPT
 ############################################################
 
 suppressPackageStartupMessages({
