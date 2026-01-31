@@ -1,0 +1,146 @@
+Study_ID,Climate,Soil_Texture,Initial_EC_dSm,Initial_pH,Crop,Cropping_System,Duration_years,Irrigation_Type,Fertilizer,Outcome,Exp_mean,Exp_sd,Exp_n,Ctrl_mean,Ctrl_sd,Ctrl_n
+(Dai et al. 2022),Subtropical,Loam,NA,NA,Wheat,Monoculture,1,Sprinkler,Straw + NPK,Yield,20,1.5,3,14,1.5,3
+(Abulaiti et al. 2023),Arid,Silt loam,4,8,Wheat,Monoculture,4,NA,Biochar + Polymer (PAM),Yield,21.42,0.754,3,5.89,1.07,3
+(Wang et al. 2022c),Arid,Silt loam,1.5,7.49,Maize,Intercropping,1,Drip,Control,Yield,8,1,3,6.5,1,3
+(Bai et al. 2024),Temperate,NA,5,NA,NA,NA,NA,Drip,Biochar Only,Yield,2.334,0.14425,3,3.239,0.2574,3
+(Shi et al. 2024),Temperate,Loam,NA,7.2,Tomato,Monoculture,NA,Drip,NPK,Yield,8.13,0.17,3,7.57,0.11,3
+(Shen et al. 2022),Semi-arid,NA,4.34,8.98,Barley,Monoculture,NA,NA,Vermicompost,Yield,0.64,0.06,3,0.388,0.08,3
+(Shen et al. 2022),Semi-arid,NA,4.34,8.98,Barley,Monoculture,NA,NA,Vermicompost,Yield,1.25,0.08,3,0.388,0.08,3
+(Shen et al. 2022),Semi-arid,NA,4.34,8.98,Barley,Monoculture,NA,NA,Vermicompost,Yield,1.69,0.11,3,0.388,0.08,3
+(Shen et al. 2022),Semi-arid,NA,4.34,8.98,Barley,Monoculture,NA,NA,Vermicompost,Yield,2.36,0.19,3,0.388,0.08,3
+(Guo et al. 2022b),Semi-arid,Sandy loam,0.41,9.64,NA,NA,NA,NA,Straw,Yield,9.97,1.08,3,8.26,0.35,3
+(Guo et al. 2022b),Semi-arid,Sandy loam,0.41,9.64,NA,NA,NA,NA,Humic Acid,Yield,11.1,0.38,3,8.26,0.35,3
+(Guo et al. 2022b),Semi-arid,Sandy loam,0.41,9.64,NA,NA,NA,NA,Farmyard Manure,Yield,10.86,0.3,3,8.26,0.35,3
+(He et al. 2022),Semi-arid,NA,NA,8.93,Alfalfa,Monoculture,NA,NA,Urea + Humic Acid,Yield,13.82,0.79,3,10.21,0.21,3
+(He et al. 2022),Semi-arid,NA,NA,8.84,Alfalfa,Monoculture,NA,NA,Urea,Yield,10.72,0.51,3,10.21,0.21,3
+(He et al. 2022),Semi-arid,NA,NA,8.78,Alfalfa,Monoculture,NA,NA,Humic Acid,Yield,13.21,0.34,3,10.21,0.21,3
+(Wang et al. 2022d),Semi-arid,NA,NA,8.32,Maize,Monoculture,1,NA,Biochar Only,Yield,11.33,0.721,3,11.15,0.531,3
+(Wang et al. 2022d),Semi-arid,NA,NA,8.32,Maize,Monoculture,1,NA,Biochar Only,Yield,13.56,0.707,3,11.15,0.531,3
+(Wang et al. 2022d),Semi-arid,NA,NA,8.32,Maize,Monoculture,1,NA,Biochar Only,Yield,12.57,0.489,3,11.15,0.531,3
+(Li et al. 2023a),Temperate,NA,3.5,8.53,Wheat,Monoculture,4,NA,Straw + NPK,Yield,6,0.5,4,6.5,0.5,4
+(Jiang et al. 2023),Arid,Silt loam,NA,NA,Cotton,Monoculture,2,Drip,Control,Yield,7.80894,0.41403,3,6.59705,0.60098,3
+(Hu et al. 2023),Subtropical,Silt loam,NA,NA,Rice,Monoculture,1,Flood,Control,Yield,10.57011,1.27513,3,9.59476,0.57618,3
+(Liu et al. 2023a),Arid,Silt loam,1.63,8.28,NA,NA,20,NA,Control,Yield,11.47,8.18,3,4.71,0.97,3
+(Huang et al. 2024a),Arid,Sandy loam,9.4,8.55,Maize,Monoculture,NA,NA,Control,Yield,8.46,0.97,3,7.45,0.6,3
+(Wang et al. 2024b),Arid,Sandy loam,0.94,8.87,Cotton,Monoculture,1,Drip,Control,Yield,0.68,0.08,3,0.7,0.11,3
+(Zhou et al. 2024),Arid,Silt loam,0.69,9.85,Phragmites australis,Monoculture,NA,NA,Control,Yield,1.05,0.05,6,0.54,0.06,6
+(Huang et al. 2024b),Subtropical,Clay,NA,7.72,Rice,Monoculture,3,Flood,Straw,Yield,6.4126,0.1184,3,6.1001,0.1565,3
+(Liu et al. 2024b),Arid,Silt loam,2.02,7.8,Barley,Monoculture,1,Flood,Straw,Yield,5.10214,0.32997,3,4.89554,0.10142,3
+(Dou et al. 2024a),Arid,Sandy clay loam,62.3,7.5,NA,NA,3,Drip,Control,Yield,0.72,0.06,9,0.33,0.04,9
+(Guo et al. 2025a),Temperate,Loam,NA,NA,Potato,Monoculture,2,NA,Biochar Only,Yield,52.5,1.5,3,42.5,1.5,3
+(Chu et al. 2025),Temperate,Loam,22.44,7.92,Salix matsudana,Monoculture,1.5,Drip,Control,Yield,9.75,0.22,3,9.05,0.12,3
+(Zhu et al. 2025),Subtropical,NA,NA,4.1,Sugarcane,Monoculture,2,NA,NPK,Yield,0.12748,0.00235,2,0.11372,0.00414,2
+(Liu et al. 2025a),Subtropical,NA,NA,NA,Rice,Monoculture,1,Subsurface drainage,Control,Yield,25.58,2.27,3,0.9,0.05,3
+(Li et al. 2021b),NA,Clay,NA,8.28,Wheat,Monoculture,NA,NA,Farmyard Manure,Yield,2.8,0.1,3,1.6,0.1,3
+(Li et al. 2021b),NA,Clay,23.91,9.64,Rice,Monoculture,NA,NA,Biochar Only,Yield,16.6,0.32,3,6.11,0.19,3
+(Sun et al. 2021),NA,NA,NA,6.84,Maize,Monoculture,2,NA,Straw + Manure,Yield,14.25,0.25,3,10.8,0.25,3
+(Zhang et al. 2022a),Temperate,NA,1.5,6.83,NA,NA,NA,NA,Biochar Compost,Yield,0.02,0.002,3,0.35,0.01,3
+(Cui et al. 2022b),Semi-arid,NA,NA,7.21,Alfalfa,Monoculture,NA,Drip,Biochar + EM,Yield,39,2.2,5,17,1.3,5
+(Jiang et al. 2022),NA,NA,145.5,5.8,Tobacco (flue-cured),Tobacco-maize rotation,12,NA,Farmyard Manure,Yield,3.4,0.05,3,2.6,0.1,3
+(Guo et al. 2024),NA,NA,NA,7.5,Maize,Monoculture,1,Drip,Straw + NPK,Yield,0.135,0.01,4,0.07,0.03,4
+(Yang et al. 2025),Semi-arid,Sandy loam,3.185,8.5,Maize,Monoculture,2,Flood,Straw + Biochar + NPK,Yield,7.5,0.3,4,6,0.3,4
+(Wang et al. 2025b),Temperate,NA,NA,NA,Wheat,Monoculture,NA,NA,Control,Yield,0.1,0.05,3,0.15,0.075,3
+(Tian et al. 2025),Temperate,NA,NA,NA,Alfalfa,Monoculture,2,NA,Control,Yield,13.2,1,3,9,0.8,3
+(Wang et al. 2025g),Temperate,NA,0.42,8.73,Soybean,Monoculture,1,Drip,Control,Yield,10.54,0.32,3,8.24,0.12,3
+(Laghari et al. 2025),Arid,Silt loam,9.3,6.9,NA,NA,2,NA,Control,Yield,0.49,0.01732,3,0.33,0.01732,3
+(Luo et al. 2024),Subtropical,NA,7.08,NA,Rice,Monoculture,NA,Sprinkler,Control,Yield,0.41,0.24,3,0.27,0.16,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,5.901,0.049,3,4.53,0.047,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,61.2,0.5,3,46.9,0.5,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,2.587,0.036,3,1.838,0.068,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,0.275,0.004,3,0.235,0.005,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,30.5,0.7,3,28.2,0.4,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,0.3021,0.0034,3,0.265,0.0058,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,0.1485,0.0007,3,0.1233,0.0008,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,36.7,0.7,3,38,0.4,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,41.8,0.6,3,32.7,0.1,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,0.1319,0.0006,3,0.1388,0.0014,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,0.1253,0.0009,3,0.1004,0.0002,3
+(Guo et al. 2025b),Semi-arid,Silty clay loam,12.5,8.9,Sorghum,Monoculture,1,NA,Control,Yield,45.1,0.7,3,45.2,0.4,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Yield,3.57816,0.34683,3,3.03903,0.18943,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Yield,83.67,6.05,3,68.2,3.94,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Yield,68.25,10.47,3,51.01,10.98,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Yield,95.56,2.41,3,89.44,2.68,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Yield,0.10397,0.00714,3,0.10854,0.00769,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Yield,0.18901,0.01496,3,0.13789,0.01125,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Yield,5,9,3,4.2,9,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Yield,7.8,8,3,8.8,8,3
+(Liu et al. 2024c),Semi-arid,Sandy loam,3.62,8.82,Maize,Monoculture,2,NA,Control,Yield,10,0.3,3,7.5,0.2,3
+(Chen et al. 2025b),Temperate,NA,NA,NA,Maize,Monoculture,1,Sprinkler,Straw,Yield,14.35,0.22,4,10.98,0.4,4
+(Cao et al. 2023),Temperate,Loam,NA,8.5,Alfalfa,Monoculture,4,Sprinkler,Biochar Only,Yield,60.01,1.78,3,56.73,2.74,3
+(Tang et al. 2023),NA,Loam,0.346,8.84,Barley,Monoculture,1,Flood,Biochar + N,Yield,5.0662,0.5522,3,2.7072,0.049,3
+(Li et al. 2023c),NA,Silty clay loam,4.89,7.69,NA,NA,1,NA,Farmyard Manure,Yield,1.63,0.12,15,0.18,0.03,15
+(Cheng et al. 2023),NA,Silty clay loam,NA,10.08,E. frumentacea,Monoculture,1,NA,Farmyard Manure,Yield,8.26,0.32,3,4.93,0.16,3
+(Cheng et al. 2023),NA,Silty clay loam,NA,10.08,E. frumentacea,Monoculture,2,NA,Control,Yield,12.29364,0.18,3,17.01464,0.24221,3
+(Zhang et al. 2024c),NA,Sandy,0.38,9.9,Roquette,Monoculture,0.0548,NA,Control,Yield,0.007,0.001,3,0.006,0.001,3
+(Xu and Qu 2025),NA,Sandy,6,8.5,Sunflower,Monoculture,0.5,NA,Biochar + N,Yield,0.35,0.002,3,0.27,0.002,3
+(Yi et al. 2022),Subtropical,NA,NA,8.1,Rice,Monoculture,0.25,Flood,NPK,Yield,19.5,1,3,13,0.5,3
+(Yi et al. 2022),Subtropical,NA,NA,8.1,Rice,Monoculture,0.25,Flood,NPK,Yield,39,4,3,20,2.5,3
+(Wang et al. 2022a),Semi-arid,Sandy loam,2.02,7.96,Maize,Monoculture,1,NA,Straw + NPK,Yield,27.81,4.42,3,10.17,2.34,3
+(Zhai et al. 2023),Semi-arid,Loam,2.7,7.9,Maize,Monoculture,1,Subsurface drainage,Farmyard Manure,Yield,3.82,0.17,3,2.71,0.12,3
+(Zhang et al. 2024a),Arid,Loam,1.68,8.25,Alfalfa,Monoculture,1,Subsurface drainage,Nitrogen,Yield,3.9,0.1,3,2,0.1,3
+(Yu et al. 2024),Arid,Silty clay loam,6.23,10.5,Maize,Monoculture,25,Sprinkler,Farmyard Manure,SOC,40,4,3,10.95,1.5,3
+(Dai et al. 2022),Subtropical,Loam,NA,NA,Wheat,Monoculture,1,Sprinkler,Straw + NPK,SOC,20,1.5,3,14,1.5,3
+(Abulaiti et al. 2023),Arid,Silt loam,4,8,Wheat,Monoculture,4,NA,Biochar + Polymer (PAM),SOC,21.42,0.754,3,5.89,1.07,3
+(Li et al. 2021a),Arid,Sandy loam,15.07,8.2,River saltbush,Monoculture,2,NA,Compost,SOC,15.6,3,3,3,0.2,3
+(Bai et al. 2024),Temperate,NA,5,NA,NA,NA,NA,Drip,Biochar only,SOC,13.5,1,3,10.5,1,3
+(Jiang et al. 2025a),Temperate,Clay,0.646,7.74,Rice,Monoculture,1,Flood,Control,SOC,2.43,0.13,3,1.64,0.06,3
+(Guo et al. 2022b),Semi-arid,Sandy loam,0.41,9.64,NA,NA,1,NA,Straw,SOC,13.8,1.56,3,8.5,2.67,3
+(Guo et al. 2022b),Semi-arid,Sandy loam,0.41,9.64,NA,NA,1,NA,Humic Acid,SOC,15.9,1.82,3,8.5,2.67,3
+(Guo et al. 2022b),Semi-arid,Sandy loam,0.41,9.64,NA,NA,1,NA,Farmyard Manure,SOC,15.72,1.64,3,8.5,2.67,3
+(He et al. 2022),Semi-arid,NA,NA,8.93,Alfalfa,Monoculture,3,NA,Urea + Humic Acid,SOC,11.9,2.78852,3,12.51,0.69282,3
+(He et al. 2022),Semi-arid,NA,NA,8.84,Alfalfa,Monoculture,3,NA,Urea,SOC,12.67,2.82316,3,12.51,0.69282,3
+(He et al. 2022),Semi-arid,NA,NA,8.78,Alfalfa,Monoculture,3,NA,Humic Acid,SOC,12.03,1.2124,3,12.51,0.69282,3
+(Li et al. 2023a),Temperate,NA,3.5,8.53,Wheat,Monoculture,4,NA,Straw + NPK,SOC,10.8,0.34641,3,9.5,0.34641,3
+(Liu et al. 2023a),Arid,Silt loam,1.63,8.28,NA,NA,20,NA,Control,SOC,11.47,8.18,3,4.71,0.97,3
+(Huang et al. 2024a),Arid,Sandy loam,9.4,8.55,Maize,Monoculture,NA,NA,Control,SOC,1.25,0.18,3,1.07,0.05,3
+(Wang et al. 2024b),Arid,Sandy loam,0.94,8.87,Cotton,Monoculture,1,Drip,Control,SOC,0.68,0.08,3,0.7,0.11,3
+(Zhou et al. 2024),Arid,Silt loam,0.69,9.85,Phragmites australis,Monoculture,NA,NA,Control,SOC,1.05,0.05,6,0.54,0.06,6
+(Huang et al. 2024b),Subtropical,Clay,NA,7.72,Rice,Monoculture,3,Flood,Straw,SOC,18.4,0.2,3,16.1,0.4,3
+(Dou et al. 2024a),Arid,Sandy clay loam,62.3,7.5,NA,NA,3,Drip,Control,SOC,9,1.1,9,4.7,0.5,9
+(Xiao et al. 2024),Semi-arid,Silt loam,393,8.17,Rice,Monoculture,1,Flood,Farmyard Manure,SOC,10.66,1.51,3,9.1,0.44,3
+(Li et al. 2021b),NA,Clay,NA,8.28,Wheat,Monoculture,NA,NA,Farmyard Manure,SOC,17.64,1.67,3,3.96,0.98,3
+(Sun et al. 2021),NA,NA,NA,6.84,Maize,Monoculture,2,NA,Straw + Manure,SOC,16.61,0.4,3,14.66,0.3,3
+(Gu et al. 2022),NA,NA,NA,6.01,Rice,Monoculture,1,NA,Biochar + NPK,SOC,18,1,3,13.5,1,3
+(Zhang et al. 2022a),Temperate,NA,1.5,6.83,NA,NA,NA,NA,Biochar Compost,SOC,20.73,0.2,3,24.17,0.3,3
+(Cui et al. 2022b),Semi-arid,NA,NA,7.21,Alfalfa,Monoculture,NA,Drip,Biochar + EM,SOC,29.68,0.4,5,18.7,0.62,5
+(Cui et al. 2022a),Temperate,Silt loam,1.05,6.82,NA,NA,NA,Drip,Straw,SOC,1.95,0.03,3,1.95,0.03,3
+(Li et al. 2025a),Temperate,Silt loam,NA,5.45,NA,NA,NA,NA,Biochar + Straw,SOC,14.1,0.34,3,11.69,0.69,3
+(Jiang et al. 2022),NA,NA,145.5,5.8,Tobacco (flue-cured),Tobacco-maize rotation,12,NA,Straw + NPK,SOC,9.3,1.5,3,7.5,0.5,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,SOC,11.3,1.22,3,9.7,1,3
+(Sui et al. 2025),Semi-arid,NA,NA,8.5,E. angustifolia,Monoculture,NA,NA,Control,SOC,1.2,0.04,3,1,0.05,3
+(Liu et al. 2024c),Semi-arid,Sandy loam,3.62,8.82,Maize,Monoculture,2,NA,Control,SOC,14,0.4,3,10.5,0.3,3
+(Yang et al. 2024),Temperate,NA,NA,NA,Maize–Wheat,Intercropping,2,Sprinkler,NPK,SOC,13.2,0.2,3,10.1,0.3,3
+(Chen et al. 2025b),Temperate,NA,NA,NA,Maize,Monoculture,1,Sprinkler,Straw,SOC,14.35,0.22,4,10.98,0.4,4
+(Zhu et al. 2022),Subtropical,Clay,NA,6.81,NA,NA,NA,Flood,Control,SOC,26.9,0.35,3,24.14,0.19,3
+(Liu et al. 2023b),Temperate,Clay,NA,8.44,NA,NA,NA,Flood,Control,SOC,30.93,21.9,4,41.89,23.68,3
+(Li et al. 2023c),NA,Silty clay loam,4.89,7.69,NA,NA,1,NA,Compost,SOC,1.63,3.63,3,15,1.77,3
+(Xu and Qu 2025),NA,Sandy,6,8.5,Sunflower,Monoculture,0.5,NA,Biochar + N,SOC,350,1.9,3,1.2,0.01,3
+(Wang et al. 2022a),Semi-arid,Sandy loam,2.02,7.96,Maize,Monoculture,1,NA,Straw + NPK,SOC,27.81,14.10175,3,8.14,0.12127,3
+(Zhang et al. 2024a),Arid,Loam,1.68,8.25,Alfalfa,Monoculture,1,Subsurface drainage,Nitrogen,SOC,3.9,17.40736,3,9.23,0.31177,3
+(Dai et al. 2022),Subtropical,Loam,NA,NA,Wheat,Monoculture,1,Sprinkler,Straw + NPK,Enzyme,80,5,3,60,4,3
+(He et al. 2022),Semi-arid,NA,NA,8.93,Alfalfa,Monoculture,3,NA,Urea + Humic Acid,Enzyme,13.82,6.63,3,6.62,0.03464,3
+(He et al. 2022),Semi-arid,NA,NA,8.84,Alfalfa,Monoculture,3,NA,Urea,Enzyme,10.72,6.63,3,6.62,0.03464,3
+(He et al. 2022),Semi-arid,NA,NA,8.78,Alfalfa,Monoculture,3,NA,Humic Acid,Enzyme,13.21,6.67,3,6.62,0.03464,3
+(Hu et al. 2023),Subtropical,Silt loam,NA,NA,Rice,Monoculture,1,Flood,Control,Enzyme,2.11,0.09,3,2.04,0.07,3
+(Huang et al. 2024a),Arid,Sandy loam,9.4,8.55,Maize,Monoculture,NA,NA,Control,Enzyme,960,45,3,760,30,3
+(Wang et al. 2024b),Arid,Sandy loam,0.94,8.87,Cotton,Monoculture,1,Drip,Control,Enzyme,0.98,0.01,3,0.97,0.01,3
+(Zhou et al. 2024),Arid,Silt loam,0.69,9.85,Phragmites australis,Monoculture,NA,NA,Control,Enzyme,140,10,6,80,10,6
+(Huang et al. 2024b),Subtropical,Clay,NA,7.72,Rice,Monoculture,3,Flood,Straw,Enzyme,0.6,0.05,3,0.4,0.05,3
+(Liu et al. 2024b),Arid,Silt loam,2.02,7.8,Barley,Monoculture,1,Flood,Straw,Enzyme,4.8,0.2,3,3,0.2,3
+(Xiao et al. 2024),Semi-arid,Silt loam,393,8.17,Rice,Monoculture,1,Flood,Farmyard Manure,Enzyme,220.5,2.79,3,175.33,5.01,3
+(Li et al. 2021b),NA,Clay,NA,8.28,Wheat,Monoculture,NA,NA,Farmyard Manure,Enzyme,2.8,2.8,3,1.6,0.05,3
+(Cui et al. 2022b),Semi-arid,NA,NA,7.21,Alfalfa,Monoculture,NA,Drip,Biochar + EM,Enzyme,12,0.8,5,5,0.6,5
+(Cui et al. 2022a),Temperate,Silt loam,1.05,6.82,NA,NA,NA,Drip,Straw,Enzyme,1.05,0.05,3,0.7,0.05,3
+(Peng et al. 2025),NA,Silty clay loam,NA,7.2,Taxodium 'Zhongshanshan',Monoculture,NA,NA,Control,Enzyme,30,22,3,11,2,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Enzyme,25.78,0.62,3,11.95,0.64,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Enzyme,167.87,3.42,3,104.86,4.69,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Enzyme,22.39,0.47,3,11.93,6.36,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Enzyme,62.2,1.23,3,52.69,2.9,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Enzyme,558.87,10.47,3,449.15,23.69,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Enzyme,7.01,0.74,3,4.22,0.89,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Enzyme,1.98,0.21,3,1.33,0.74,3
+(Liu et al. 2025b),Semi-arid,Sandy loam,NA,6.49,Peanut,Monoculture,1,NA,Biochar Compost,Enzyme,1.2,0.01,3,1.09,0.03,3
+(Sui et al. 2025),Semi-arid,NA,NA,8.5,E. angustifolia,Monoculture,NA,NA,Control,Enzyme,2.1,0.15,3,1.1,0.1,3
+(Guo et al. 2024),NA,NA,NA,7.5,Maize,Monoculture,1,Drip,Straw + N + P,Enzyme,135,38,4,4,2.2,4
+(Zhu et al. 2025),Subtropical,NA,NA,4.1,Sugarcane,Monoculture,2,NA,NPK,Enzyme,127.48,6.638,3,5.685,0.1751,3
+(Laghari et al. 2025),Arid,Silt loam,9.3,6.9,NA,NA,2,NA,Control,Enzyme,1100,0.49,3,400,34.64102,3
